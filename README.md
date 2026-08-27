@@ -1,6 +1,8 @@
-# Alya-BetterDiscord
-ENGLISH
+**Alya BetterDiscord Theme**
 
+[Download betterdiscord](https://betterdiscord.app/)
+[Source](https://github.com/bobrat641-prog/Alya-BetterDiscord)
+### ENGLISH
 
 # Alya — BetterDiscord Theme
 
