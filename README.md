@@ -71,9 +71,8 @@ Variable	Description	Default
 --alya-accent-hover	Accent color when hovering over elements	#b9e7ff
 🖼️ Background
 
-To change the background image, edit:
 
---alya-background: url("YOUR_IMAGE_URL");
+
 
 Use a direct link to an image for the best result.
 
