@@ -15,14 +15,13 @@
 <p align="center">
   <img src="assets/screenshots/preview.png" alt="Alya Glass Preview" width="850">
 </p>
-
-> Replace `assets/screenshots/preview.png` with the path to your actual screenshot.
+![Alya Glass Screenshot 1](images/screenshot1.png)
+![Alya Glass Screenshot 2](images/screenshot2.png)
 
 ---
 
 ## 🌸 About
-![Alya Glass Screenshot 1](images/screenshot1.png)
-![Alya Glass Screenshot 2](images/screenshot2.png)
+
 **Alya Glass** is a custom BetterDiscord theme designed around a clean transparent glass aesthetic.
 
 The goal of the theme is to make Discord feel more modern while keeping the interface readable, comfortable, and customizable.
