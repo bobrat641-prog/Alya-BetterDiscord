@@ -12,11 +12,9 @@
 
 ## ✨ Preview
 
-<p align="center">
-  <img src="assets/screenshots/preview.png" alt="Alya Glass Preview" width="850">
-</p>
 ![Alya Glass Screenshot 1](images/screenshot1.png)
 ![Alya Glass Screenshot 2](images/screenshot2.png)
+
 
 ---
 
