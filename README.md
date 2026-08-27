@@ -1,118 +1,202 @@
-# Alya Glass
+# ✦ Alya Glass
 
-[Download betterdiscord](https://betterdiscord.app/)
-[Source](https://github.com/bobrat641-prog/Alya-BetterDiscord)
-### RU
+<p align="center">
+  <strong>A modern transparent glass-style theme for BetterDiscord.</strong>
+</p>
 
-Полупрозрачная аниме-тема для BetterDiscord в стиле **Alya**.
+<p align="center">
+  Clean • Transparent • Customizable • Lightweight
+</p>
 
-## 🖼️ Скриншоты
+---
 
+## ✨ Preview
+
+<p align="center">
+  <img src="assets/screenshots/preview.png" alt="Alya Glass Preview" width="850">
+</p>
+
+> Replace `assets/screenshots/preview.png` with the path to your actual screenshot.
+
+---
+
+## 🌸 About
 ![Alya Glass Screenshot 1](images/screenshot1.png)
-
 ![Alya Glass Screenshot 2](images/screenshot2.png)
+**Alya Glass** is a custom BetterDiscord theme designed around a clean transparent glass aesthetic.
 
-## ✨ Особенности
+The goal of the theme is to make Discord feel more modern while keeping the interface readable, comfortable, and customizable.
 
-- 🖼️ Аниме-фон Alya
-- 🪟 Полупрозрачные панели
-- 🔵 Голубой акцентный цвет
-- 💬 Стилизованные сообщения и упоминания
-- 🎴 Прозрачные карточки и настройки
-- 🔘 Кастомные кнопки
-- 📋 Оформленные меню и всплывающие окна
-- 🎨 Изменённые элементы BetterDiscord
+### Features
 
-### EN
-# Alya Glass
-
-A semi-transparent anime theme for BetterDiscord inspired by **Alya**.
-
-## ✨ Features
-
-
-- 🖼️ Alya anime background
-- 🪟 Semi-transparent panels
-- 🔵 Blue accent color
-- 💬 Styled messages and mentions
-- 🎴 Transparent cards and settings
-- 🔘 Custom buttons
-- 📋 Styled menus and popout windows
-- 🎨 Customized BetterDiscord interface elements
-
+* 🪟 Transparent glass-style interface
+* 🎨 Custom Discord UI
+* 👤 Improved profile appearance
+* 🎮 Activity customization
+* ⚙️ Easy CSS customization
+* 🌙 Designed primarily for dark Discord
+* 🪶 Lightweight styling
+* ✨ Clean modern appearance
 
 ---
 
-# 🎨 Customization
+## 📦 Installation
 
-## App elements
+### Requirements
 
-| Variable | Description | Default |
-|---|---|---|
-| `--alya-background` | Background image for the Discord application | Alya image |
-| `--alya-panel` | Background color for standard transparent panels | `rgba(8, 22, 42, .38)` |
-| `--alya-panel-strong` | Background color for stronger panels | `rgba(8, 22, 42, .55)` |
+* Discord
+* BetterDiscord
 
-## Accent color
+Download and install BetterDiscord from the official website:
 
-| Variable | Description | Default |
-|---|---|---|
-| `--alya-accent` | Main accent color used throughout the theme | `#8fd3ff` |
-| `--alya-accent-hover` | Accent color when hovering over elements | `#b9e7ff` |
+**https://betterdiscord.app/**
+
+### Install Alya Glass
+
+1. Download `AlyaGlass.theme.css`.
+2. Open Discord.
+3. Go to **User Settings → Themes**.
+4. Open the **Themes Folder**.
+5. Move `AlyaGlass.theme.css` into the folder.
+6. Return to Discord.
+7. Enable **Alya Glass**.
 
 ---
 
-# 🖼️ Background
+## 🎨 Customization
 
-To change the background image, edit:
+Alya Glass is designed to be easily customized.
 
-```css
---alya-background: url("YOUR_IMAGE_URL");
+You can modify the CSS to change things such as:
 
-Use a direct image link for the best result.
+* Transparency
+* Borders
+* Backgrounds
+* Rounded corners
+* Profile elements
+* Activity cards
+* Colors
+* Spacing
+* UI elements
 
-🔵 Accent colors
+> Advanced customization requires basic knowledge of CSS.
 
-You can change the main colors of the theme:
+---
 
-:root {
-    --alya-accent: #8fd3ff;
-    --alya-accent-hover: #b9e7ff;
-}
+## 🖥️ Compatibility
 
-Example with a pink accent:
+| Component       | Status                      |
+| --------------- | --------------------------- |
+| BetterDiscord   | ✅ Supported                 |
+| Discord Desktop | ✅ Supported                 |
+| Discord Web     | ⚠️ Not officially supported |
+| Discord Mobile  | ❌ Not supported             |
 
-:root {
-    --alya-accent: #ff8fcf;
-    --alya-accent-hover: #ffc2e5;
-}
-🪟 Panel transparency
+Compatibility may change when Discord or BetterDiscord receives major updates.
 
-The transparency of the interface can be adjusted here:
+---
 
-:root {
-    --alya-panel: rgba(8, 22, 42, .38);
-    --alya-panel-strong: rgba(8, 22, 42, .55);
-}
+## 🐛 Bug Reports
 
-The last value controls transparency:
+Found a problem?
 
-0 — completely transparent
-.25 — highly transparent
-.50 — medium transparency
-.75 — low transparency
-1 — completely opaque
-📥 Installation
-Install BetterDiscord.
-Download Alya.theme.css.
-Move the file to your BetterDiscord themes folder.
-Open Discord settings.
-Go to Themes.
-Enable Alya Glass.
-🛠️ Author
+Before creating an issue:
 
-Meowgrema
+1. Make sure you are using the latest version of Alya Glass.
+2. Make sure BetterDiscord is up to date.
+3. Check existing Issues.
+4. If the problem still exists, create a new Bug Report.
 
-📄 Version
+When reporting a bug, include:
 
-1.0
+* Alya Glass version
+* BetterDiscord version
+* Discord version
+* Operating system
+* Description of the problem
+* Steps to reproduce it
+* Screenshot or video if possible
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+---
+
+## 💡 Feature Requests
+
+Have an idea for Alya Glass?
+
+Create a Feature Request and describe:
+
+* What you want to add
+* How it should work
+* Why it would improve the theme
+
+Useful and realistic ideas may be considered for future releases.
+
+---
+
+## 📜 License
+
+Alya Glass is distributed under the **MIT License**.
+
+See [LICENSE](LICENSE) for the full license text.
+
+---
+
+## 🔒 Security
+
+If you discover a security vulnerability, please report it privately instead of publicly posting it.
+
+See [SECURITY.md](SECURITY.md) for more information.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+You can help by:
+
+* Fixing bugs
+* Improving CSS
+* Adding customization options
+* Suggesting features
+* Improving documentation
+* Testing compatibility
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a Pull Request.
+
+---
+
+## 📋 Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for the complete version history.
+
+### Current Version
+
+**Alya Glass 1.0.0**
+
+---
+
+## ⚠️ Disclaimer
+
+Alya Glass is an independent third-party theme.
+
+**Alya Glass is not affiliated with, endorsed by, or officially connected to Discord or BetterDiscord.**
+
+Discord and BetterDiscord are trademarks of their respective owners.
+
+---
+
+## 💜 Credits
+
+Created and maintained by **Meowgrema**.
+
+Thank you to everyone who tests Alya Glass, reports bugs, and contributes to the project.
+
+---
+
+<p align="center">
+  <strong>✦ Alya Glass</strong><br>
+  Made with CSS and ✨
+</p>
