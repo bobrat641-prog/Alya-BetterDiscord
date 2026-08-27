@@ -6,6 +6,12 @@
 
 Полупрозрачная аниме-тема для BetterDiscord в стиле **Alya**.
 
+## 🖼️ Screenshots
+
+![Alya Glass Screenshot 1](images/screenshot1.png)
+
+![Alya Glass Screenshot 2](images/screenshot2.png)
+
 ## ✨ Особенности
 
 - 🖼️ Аниме-фон Alya
