@@ -2,7 +2,7 @@
 
 [Download betterdiscord](https://betterdiscord.app/)
 [Source](https://github.com/bobrat641-prog/Alya-BetterDiscord)
-
+### RU
 
 Полупрозрачная аниме-тема для BetterDiscord в стиле **Alya**.
 
@@ -16,6 +16,24 @@
 - 🔘 Кастомные кнопки
 - 📋 Оформленные меню и всплывающие окна
 - 🎨 Изменённые элементы BetterDiscord
+
+### EN
+# Alya Glass
+
+A semi-transparent anime theme for BetterDiscord inspired by **Alya**.
+
+## ✨ Features
+
+
+- 🖼️ Alya anime background
+- 🪟 Semi-transparent panels
+- 🔵 Blue accent color
+- 💬 Styled messages and mentions
+- 🎴 Transparent cards and settings
+- 🔘 Custom buttons
+- 📋 Styled menus and popout windows
+- 🎨 Customized BetterDiscord interface elements
+
 
 ---
 
