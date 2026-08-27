@@ -60,3 +60,68 @@ RU
 
 > Сделано для тех, кто хочет добавить немного аниме-атмосферы в свой Discord. 💙
 
+App elements
+Variable	Description	Default
+--alya-background	Background image for the Discord application	Alya image
+--alya-panel	Background color for standard transparent panels	rgba(8, 22, 42, .38)
+--alya-panel-strong	Background color for stronger panels	rgba(8, 22, 42, .55)
+Accent color
+Variable	Description	Default
+--alya-accent	Main accent color used throughout the theme	#8fd3ff
+--alya-accent-hover	Accent color when hovering over elements	#b9e7ff
+🖼️ Background
+
+To change the background image, edit:
+
+--alya-background: url("YOUR_IMAGE_URL");
+
+Use a direct link to an image for the best result.
+
+🎨 Accent colors
+
+You can change the main colors of the theme:
+
+:root {
+    --alya-accent: #8fd3ff;
+    --alya-accent-hover: #b9e7ff;
+}
+
+Example:
+
+:root {
+    --alya-accent: #ff8fcf;
+    --alya-accent-hover: #ffc2e5;
+}
+🪟 Panel transparency
+
+The transparency of the interface can be adjusted here:
+
+:root {
+    --alya-panel: rgba(8, 22, 42, .38);
+    --alya-panel-strong: rgba(8, 22, 42, .55);
+}
+
+The last value controls transparency:
+
+0 — completely transparent
+.25 — highly transparent
+.50 — medium transparency
+.75 — low transparency
+1 — completely opaque
+📥 Installation
+Install BetterDiscord.
+Download Alya.theme.css.
+Move the file to your BetterDiscord themes folder.
+Open Discord settings.
+Go to Themes.
+Enable Alya Glass.
+🛠️ Author
+
+Meowgrema
+
+📄 Version
+
+1.0
+
+Made with ❤️ for BetterDiscord users.
+
