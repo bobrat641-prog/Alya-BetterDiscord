@@ -12,7 +12,7 @@
 
 ## ✨ Preview
 
-![Alya Glass Screenshot 1](images/screenshot1.png)
+![Alya Glass Screenshot 1](images/Screenshot1.png)
 ![Alya Glass Screenshot 2](images/screenshot2.png)
 ![Alya Glass Screenshot 3](images/screenshot3.png)
 ![Alya Glass Screenshot 4](images/screenshot4.png)
