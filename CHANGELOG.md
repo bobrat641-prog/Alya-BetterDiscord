@@ -1,4 +1,12 @@
+## [1.1.1]
+
+### Fixed
+- Fixed minor CSS issues
+- Improved transparency effects
+- Improved compatibility with Discord UI
+
 ## [1.1.0]
+
 
 ### Added
 
